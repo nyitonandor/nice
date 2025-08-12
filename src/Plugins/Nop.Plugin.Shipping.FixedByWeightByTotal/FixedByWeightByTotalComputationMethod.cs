@@ -206,7 +206,6 @@ public class FixedByWeightByTotalComputationMethod : BasePlugin, IShippingRateCo
         return response;
     }
 
-
     /// <summary>
     /// Gets fixed shipping rate (if shipping rate computation method allows it and the rate can be calculated before checkout).
     /// </summary>
